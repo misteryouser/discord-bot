@@ -3,11 +3,9 @@ require('dotenv').config();
 const fs = require('fs');
 const cron = require('node-cron');
 
-require('dotenv').config();const fs = require('fs');
 
 
 
-const cron = require('node-cron');
 
 
 const {
